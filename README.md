@@ -1,16 +1,23 @@
-### Hi there 👋
+# newRepository
+####### 헤더크기
+**볼드체**<br/>
+_기울기_
+*이텔릭체*
+~취소선~
+일반글씨
+1. 순서1
+2. 순서
+3. 순서3
+- 순서
+- 순서없는
 
-<!--
-**tjdbwls/tjdbwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 목록
 
-Here are some ideas to get you started:
+> 인용구
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 우왕
+> 배고프다
+
+> *오늘 점심은* 
+> __쌀국수__
+
